@@ -61,6 +61,11 @@ I like to understanding *why* things work, not just copying patterns that happen
 </p>
 </details>
 
+<p align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriEriel&layout=compact&theme=vision-friendly-dark)
+
+</p>
 
 ---
 
