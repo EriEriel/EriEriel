@@ -8,7 +8,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 
 ## Stack
 ### Programming language
-<details>
+<details open>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,js,ts,python&perline=6" />
@@ -17,7 +17,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 </details>
 
 ### Web
-<details>
+<details open>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss&perline=6" />
@@ -26,8 +26,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 </details>
 
 ### Framework & Library
-
-<details>
+<details open>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs&perline=6" />
@@ -36,8 +35,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 </details>
 
 ### Database
-
-<details>
+<details open>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prisma,postgres&perline=6" />
