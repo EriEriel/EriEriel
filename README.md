@@ -6,12 +6,12 @@ I like to understanding *why* things work, not just copying patterns that happen
 
 ---
 
-## Stack
+## Stacks
 ### Programming language
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,ts,python&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,js,ts,python,lua&perline=6" />
   </a>
 </p>
 </details>
@@ -29,12 +29,12 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=6" />
   </a>
 </p>
 </details>
 
-### Database
+### Data
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,6 +42,25 @@ I like to understanding *why* things work, not just copying patterns that happen
   </a>
 </p>
 </details>
+
+## Interest in and learning
+<details open>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,zig,flutter,docker,wasm&perline=6" />
+  </a>
+</p>
+</details>
+
+## Tools
+<details open>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,git,neovim,md&perline=6" />
+  </a>
+</p>
+</details>
+
 
 ---
 
