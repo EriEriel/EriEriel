@@ -73,7 +73,7 @@ I also run small-group remote programming sessions for beginner who interest in 
 
 ## Learning philosophy
 
-I use AI as a last resort for blockers, not a first stop. When I do use generated code, I take time to review it, take note so I understand what it's doing. I keep a personal ![Obsidian-Vault](https://github.com/EriEriel/Obsidian-Vault) directory of Markdown notes — bug reports, learning summaries — that I actually go back to.
+I use AI as a last resort for blockers, not a first stop. When I do use generated code, I take time to review it, take note so I understand what it's doing. I keep a personal [Obsidian-Vault](https://github.com/EriEriel/Obsidian-Vault) directory of Markdown notes — bug reports, learning summaries — that I actually go back to.
 
 CS fundamentals matter to me more than framework churn. I read the Rust book cover-to-cover before writing a line of Rust, not because I had to, but because I wanted the mental map first and it is actually fun to do so.
 
