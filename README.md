@@ -56,7 +56,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,wasm&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter,wasm,mongodb&perline=6" />
   </a>
 </p>
 </details>
