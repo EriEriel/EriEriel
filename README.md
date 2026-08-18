@@ -11,7 +11,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,ts,python,lua&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,js,ts,python,lua,rust&perline=6" />
   </a>
 </p>
 </details>
@@ -29,7 +29,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,hono&perline=6" />
   </a>
 </p>
 </details>
@@ -38,7 +38,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,mongoDB&perline=6" />
   </a>
 </p>
 </details>
@@ -47,7 +47,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,zig&perline=6" />
+    <img src="https://skillicons.dev/icons?i=Flutter&perline=6" />
   </a>
 </p>
 </details>
@@ -56,7 +56,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,wasm,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=wasm&perline=6" />
   </a>
 </p>
 </details>
