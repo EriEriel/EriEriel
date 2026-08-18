@@ -38,7 +38,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,mongoDB&perline=6" />
+    <img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,mongodb&perline=6" />
   </a>
 </p>
 </details>
@@ -47,7 +47,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 <details open>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Flutter&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter&perline=6" />
   </a>
 </p>
 </details>
@@ -74,7 +74,7 @@ I like to understanding *why* things work, not just copying patterns that happen
 
 ## What I'm working toward
 
-Longer term: I want to go deep on systems programming (C → Rust, Zig path), and eventually work in Japan. Studying Japanese alongside everything else.
+Longer term: I want to go deep on systems programming (C → Rust), and eventually work in Japan. Studying Japanese alongside everything else.
 
 I also run small-group remote programming sessions for beginner who interest in programming — Python, project-driven curriculum .Teaching something is the fastest way to find out what you don't actually understand.
 
